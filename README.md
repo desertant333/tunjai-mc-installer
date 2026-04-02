@@ -5,14 +5,10 @@ this is a virus about minecraft installer
 ## What it contains?
 Well it contains:
 
-> Pankoza's gdi effects
-
->  43 debuggers ( aka the restrictions )
-
->  DWM crash ( buggy )
-
->  IP Grabber
-
+> Pankoza's gdi effects\
+>  43 debuggers ( aka the restrictions )\
+>  DWM crash ( buggy )\
+>  IP Grabber\
 >  3 autoloaders
 
 ###### Warn!
