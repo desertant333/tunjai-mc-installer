@@ -16,8 +16,7 @@ Well it contains:
 >  3 autoloaders
 
 ###### Warn!
-This is technically not supposed to be downloaded on someone's \ yours \ school's laptops or pc
-
+This is technically not supposed to be downloaded on someone's \ yours \ school's laptops or pc\
 So if you already downloaded, all action is at your own risk
 
 ## INSTALLER
