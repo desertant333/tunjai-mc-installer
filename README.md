@@ -7,10 +7,10 @@
 \__/\__,_/_/ /_/_/ /\__,_/_/     /_/ /_/ /_/\___/     /_/_/ /_/____/\__/\__,_/_/_/\___/_/     
               /___/                                                                       
 ```
-this is a virus about minecraft installer
+this is a virus about minecraft installer\
 ###### another pankozas gdi virus xd
 
-## What it contains?
+## What it contains?\
 Well it contains:
 
 > Pankoza's gdi effects\
